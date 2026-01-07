@@ -53,10 +53,13 @@ The visuals are designed to be intuitive, executive-friendly, and action-oriente
 
 ## Repository Contents
 
-* Power BI dashboard file
-* Python scripts for data cleaning and preparation
-* SQL queries for analysis
-* Business problem statement and project documentation
+* Business Problem Statement.pdf – Business problem definition
+* Customer Shopping Behavior Analysis.pdf – Detailed analysis and insights report
+* customer_behavior_dashboard.pbix – Power BI dashboard file
+* customer_behavior_sql_queries.sql – SQL queries used for analysis
+* customer_shopping_behavior.csv – Source dataset
+* Customer_Shopping_Behavior_Analysis.ipynb – Python notebook for data preparation and analysis
+* Customer-Shopping-Behavior-Analysis.pptx – Stakeholder presentation file
 
 ---
 
